@@ -1,5 +1,4 @@
-# CAS-X: Multi-Tissue Prioritization Framework for Type 2 Diabetes Susceptibility Genes
-
+# CAS-X: A Multi-Tissue Functional Genomics Framework for Prioritizing Type 2 Diabetes Susceptibility Genes
 ## Graphical Abstract
 
 ![Graphical Abstract](results/figures/Graphical_Abstract_Final.png)
@@ -146,8 +145,8 @@ Included figures:
 | Figure4_Top15_CASX_V5 | Top-ranked CAS-X candidate genes |
 | Figure5_Tissue_Contribution_V2 | Tissue contribution analysis |
 | Figure6_Validation_Summary_V2 | Integrated validation summary |
-| Figure7_Pathway_Enrichment | Pathway enrichment results |
-| Figure8_External_Validation_Landscape | External validation landscape |
+| Figure7_External_Validation_Landscap | Pathway enrichment results |
+| Figure8_Pathway_Enrichment | External validation landscape |
 | Graphical_Abstract_Final | Study graphical abstract |
 
 ---

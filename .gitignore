@@ -1,0 +1,41 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+casx_env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Operating System
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+*.tmp
+
+# Large Raw Data
+
+data/raw/
+
+# GTEx Extraction Directory
+
+GTEx_Analysis_v11_eQTL/
+
+# Backup Copies
+
+backup/
+
+# Misc
+
+*.swp
+*~

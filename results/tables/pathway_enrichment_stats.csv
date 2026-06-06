@@ -1,0 +1,10 @@
+DATABASE,PATHWAY,ADJ_P,COMBINED_SCORE
+KEGG,TYPE II DIABETES MELLITUS,0.02119,340.03
+KEGG,INSULIN SECRETION,0.03890,163.20
+KEGG,AMPK SIGNALING PATHWAY,0.06518,93.61
+WikiPathways,Type II Diabetes Mellitus WP1584,0.006201,995.84
+WikiPathways,Transcription Factor Regulation In Adipogenesis WP3599,0.006201,935.50
+WikiPathways,Galanin Receptor Pathway WP4970,0.006201,1440.04
+Reactome,Regulation of Insulin Secretion,0.09913,171.83
+Reactome,IRS Activation,0.09913,1393.12
+Reactome,Integration of Energy Metabolism,0.09913,109.75

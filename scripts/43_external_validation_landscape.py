@@ -40,7 +40,7 @@ ax.set_ylabel(
 )
 
 ax.set_title(
-    "Figure 8. External Validation of CAS-X Prioritized Genes",
+    "Figure 7. External Validation of CAS-X Prioritized Genes",
     fontsize=20,
     fontweight="bold",
     pad=20
@@ -59,9 +59,9 @@ plt.figtext(
 plt.tight_layout(rect=[0,0.08,1,1])
 
 plt.savefig(
-    "results/figures/Figure8_External_Validation_Landscape.png",
+    "results/figures/Figure7_External_Validation_Landscape.png",
     dpi=450,
     bbox_inches="tight"
 )
 
-print("Saved Figure 8")
+print("Saved Figure 7")

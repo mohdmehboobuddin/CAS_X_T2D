@@ -145,8 +145,8 @@ Included figures:
 | Figure4_Top15_CASX_V5 | Top-ranked CAS-X candidate genes |
 | Figure5_Tissue_Contribution_V2 | Tissue contribution analysis |
 | Figure6_Validation_Summary_V2 | Integrated validation summary |
-| Figure7_External_Validation_Landscap | Pathway enrichment results |
-| Figure8_Pathway_Enrichment | External validation landscape |
+| Figure7_External_Validation_Landscap | External validation landscape |
+| Figure8_Pathway_Enrichment | pathway enrichment results |
 | Graphical_Abstract_Final | Study graphical abstract |
 
 ---

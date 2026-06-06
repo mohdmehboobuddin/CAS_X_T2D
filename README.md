@@ -128,6 +128,30 @@ These results demonstrate enrichment of pathways directly relevant to glucose ho
 
 ---
 
+## Figures
+
+Final publication-quality figures generated during the CAS-X analysis are available in:
+
+```text
+results/figures/
+```
+
+Included figures:
+
+| Figure | Description |
+|----------|----------|
+| Figure1_CASX_Workflow_V2 | CAS-X workflow overview |
+| Figure2_Coverage_Improvement_V2 | Multi-tissue coverage improvement analysis |
+| Figure3_Multitissue_Heatmap_V2 | Tissue-level evidence heatmap |
+| Figure4_Top15_CASX_V5 | Top-ranked CAS-X candidate genes |
+| Figure5_Tissue_Contribution_V2 | Tissue contribution analysis |
+| Figure6_Validation_Summary_V2 | Integrated validation summary |
+| Figure7_Pathway_Enrichment | Pathway enrichment results |
+| Figure8_External_Validation_Landscape | External validation landscape |
+| Graphical_Abstract_Final | Study graphical abstract |
+
+---
+
 ## Repository Structure
 
 ```text
@@ -147,8 +171,7 @@ CAS_X_T2D/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-└── .gitignore
+├── .gitignore
 ```
 
 ---
@@ -178,4 +201,4 @@ If you use CAS-X in your research, please cite the associated publication when a
 
 ## License
 
-This project is distributed under the MIT License.
+This repository is provided for academic and research purposes.

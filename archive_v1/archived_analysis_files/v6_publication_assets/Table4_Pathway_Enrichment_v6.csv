@@ -1,7 +1,0 @@
-Pathway Term,P-Value,-log10(P),Overlapping Genes
-Insulin Resistance Pathway,1.2e-06,5.920818753952375,"IRS1, FTO, GCK, PPARG"
-Type 2 Diabetes Mellitus,4.5e-06,5.346787486224656,"GCK, IRS1, KCNJ11, TCF7L2"
-Maturity Onset Diabetes of the Young,1.1e-05,4.958607314841775,"GCK, HNF1B, HNF4A"
-Adipocytokine Signaling Pathway,0.00032,3.494850021680094,"IRS1, PPARG, VEGFA"
-Regulation of Lipolysis in Adipocytes,0.00087,3.0604807473813813,"IRS1, GRB14, FTO"
-FOX0 Signaling Pathway,0.0014,2.853871964321762,"IRS1, CDKN2B, GCK"

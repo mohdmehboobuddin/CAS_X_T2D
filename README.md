@@ -65,13 +65,9 @@ CAS_X_T2D/
 
 ## Reproducibility
 
-All analyses were performed using Python-based workflows and publicly available datasets. Scripts required to reproduce the prioritization framework, validation analyses, pathway enrichment analyses, and figure generation are modularly available within the src/ directory.
+All analyses were performed using Python-based workflows and publicly available datasets. For immediate review, all fully processed outputs, dataset rankings, and high-resolution figures are readily available in the `results/` directory.
 
-To run the full pipeline:
-
-pip install -r requirements.txt
-
-Execute scripts sequentially in src/ from 01 to 05.
+For full transparency, the complete modular codebase required to reproduce the prioritization framework from scratch is provided in the `src/` directory.
 
 ---
 

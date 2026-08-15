@@ -1,6 +1,0 @@
-Method,AUROC,AUPRC
-CAS-X (Multi-Tissue PCA),0.642,0.268
-Random Expectation (10k iter),0.499,0.261
-Pancreas-Only eQTL Signal,0.375,0.171
-Max eQTL Signal,0.358,0.161
-Mean eQTL Signal,0.25,0.135

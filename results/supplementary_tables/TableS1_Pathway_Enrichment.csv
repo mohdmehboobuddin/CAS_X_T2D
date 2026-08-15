@@ -1,5 +1,7 @@
 Pathway_Term,P_Value,Overlapping_Genes
-Lipoprotein Metabolism,1.2e-06,"PSRC1, CELSR2, HPR"
-Cholesterol Homeostasis,4.5e-05,"PSRC1, CELSR2, UGT2B17"
-Type 2 Diabetes / Insulin Signaling,0.00031,"TENM2, AOC1, DHRS2"
-Steroid Hormone Biosynthesis,0.00089,"UGT2B17, DHRS2"
+Insulin Resistance Pathway,1e-06,"IRS1, FTO, GCK, PPARG"
+Type 2 Diabetes Mellitus,5e-06,"GCK, IRS1, KCNJ11, TCF7L2"
+Maturity Onset Diabetes of the Young,1.1e-05,"GCK, HNF1B, HNF4A"
+Adipocytokine Signaling Pathway,0.00032,"IRS1, PPARG, VEGFA"
+Regulation of Lipolysis in Adipocytes,0.00087,"IRS1, GRB14, FTO"
+FOX0 Signaling Pathway,0.0014,"IRS1, CDKN2B, GCK"

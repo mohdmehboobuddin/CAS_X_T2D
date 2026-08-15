@@ -1,16 +1,16 @@
 Target_Gene,Primary_Regulatory_Tissue,Tissue_Specificity_Index_Tau,Prioritization_Profile
-AOC1,Liver,0.933,Tissue-Specific
-PSRC1,Liver,0.886,Tissue-Specific
-TENM2,Liver,1.0,Tissue-Specific
-UGT2B17,Liver,0.852,Tissue-Specific
-PSORS1C3,Adipose_Subcutaneous,0.499,Systemic/Pleiotropic
-AMN,Liver,0.852,Tissue-Specific
-DHRS2,Liver,0.995,Tissue-Specific
-AMZ1,Liver,1.0,Tissue-Specific
-MIP,Liver,0.869,Tissue-Specific
-CELSR2,Liver,0.937,Tissue-Specific
-HPR,Adipose_Subcutaneous,0.52,Systemic/Pleiotropic
-MLIP,Liver,0.987,Tissue-Specific
-RAB29,Liver,0.819,Tissue-Specific
-TEKT4P2,Liver,0.308,Systemic/Pleiotropic
-LINC00910,Liver,0.333,Systemic/Pleiotropic
+JAZF1,Pancreas,0.464,Systemic/Pleiotropic
+VEGFA,Adipose (Subcutaneous),0.504,Systemic/Pleiotropic
+ZBED3,Skeletal Muscle,0.505,Systemic/Pleiotropic
+NOTCH2,Skeletal Muscle,0.533,Systemic/Pleiotropic
+FTO,Pancreas,0.633,Systemic/Pleiotropic
+IRS1,Whole Blood,0.635,Systemic/Pleiotropic
+CDKAL1,Adipose (Subcutaneous),0.674,Systemic/Pleiotropic
+CDKN2B,Skeletal Muscle,0.687,Systemic/Pleiotropic
+GRB14,Adipose (Subcutaneous),0.71,Systemic/Pleiotropic
+ADCY5,Pancreas,0.763,Systemic/Pleiotropic
+ZFAND6,Pancreas,0.812,Tissue-Specific
+KLF14,Skeletal Muscle,0.863,Tissue-Specific
+GCK,Adipose (Visceral Omentum),0.885,Tissue-Specific
+PROX1,Adipose (Visceral Omentum),0.918,Tissue-Specific
+SUGP1,Skeletal Muscle,1.0,Tissue-Specific

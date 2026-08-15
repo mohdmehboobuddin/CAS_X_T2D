@@ -1,0 +1,16 @@
+Target Gene,Small Molecule (Pill),Monoclonal Antibody,PROTAC (Degradation)
+JAZF1,0.0,0.0,1.0
+FTO,1.0,0.0,1.0
+GRB14,1.0,1.0,0.0
+CDKN2B,1.0,0.0,1.0
+ZBED3,0.0,0.0,0.5
+VEGFA,1.0,1.0,0.0
+ZFAND6,0.0,0.0,0.5
+NOTCH2,1.0,1.0,0.0
+KLF14,0.0,0.0,0.5
+IRS1,1.0,0.0,1.0
+GCK,1.0,0.0,0.0
+ADCY5,1.0,0.0,0.0
+SUGP1,0.0,0.0,0.0
+PROX1,0.0,0.0,0.5
+CDKAL1,1.0,0.0,0.0

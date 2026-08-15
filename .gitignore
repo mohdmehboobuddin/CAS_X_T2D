@@ -1,0 +1,23 @@
+# Python virtual environments
+casx_env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Raw data folders
+data/raw/
+CAS_X_v2/data/raw/
+
+# Massive file extensions to always ignore
+*.tar
+*.zip
+*.gz
+*.parquet
+
+# Specific giant text files
+CAS_X_v2/data/raw/expression/GPL6244-17930.txt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+SNP,GENE,GWAS_EVIDENCE,REGULATORY_EVIDENCE,EQTL_EVIDENCE,CHROMATIN_EVIDENCE,EXPRESSION_EVIDENCE,FUNCTIONAL_EVIDENCE,CRISPR_EVIDENCE,GWAS_SCORE,REGULATORY_SCORE,EXPRESSION_SCORE,FUNCTIONAL_SCORE,CRISPR_SCORE,EQTL_SCORE,CHROMATIN_SCORE,CASX_TOTAL,PRIORITY_TIER
+rs13266634,SLC30A8,Strong replicated GWAS locus,Coding variant with strong biological evidence,Pending,Pending,Highly expressed in pancreatic islets,Strong functional evidence,CRISPR knockout candidate,2,3,2,3,2,0,0,12,Moderate
+rs5219,KCNJ11,Strong replicated GWAS locus,Coding variant with strong biological evidence,Pending,Pending,Moderately expressed in pancreatic islets,Strong functional evidence,CRISPR knockout candidate,2,3,1,3,2,0,0,11,Moderate
+rs1801282,PPARG,Strong replicated GWAS locus,Coding variant with established metabolic role,Pending,Pending,Moderately expressed in metabolic tissues,Strong functional evidence,CRISPR knockout candidate,2,3,1,3,2,0,0,11,Moderate
+rs7903146,TCF7L2,Strong replicated GWAS locus,Strong regulatory evidence,Pending,Pending,Expressed in pancreatic islets,Strong functional evidence,CRISPRi candidate,2,3,2,3,2,0,0,12,Moderate
+rs12779790,TCF7L2,Strong replicated GWAS locus,Strong regulatory evidence,Pending,Pending,Expressed in pancreatic islets,Strong functional evidence,CRISPRi candidate,2,3,2,3,2,0,0,12,Moderate
+rs7756992,CDKAL1,Strong replicated GWAS locus,Enhancer-associated regulatory locus,Pending,Pending,Moderately expressed in pancreatic islets,Functional evidence reported,CRISPRi candidate,2,2,1,2,2,0,0,9,Low
+rs4402960,IGF2BP2,Strong replicated GWAS locus,Enhancer-associated regulatory locus,Pending,Pending,Moderately expressed in pancreatic islets,Functional evidence reported,CRISPRi candidate,2,2,1,2,2,0,0,9,Low
+rs10830963,MTNR1B,Strong replicated GWAS locus,Enhancer-associated regulatory locus,Pending,Pending,Low expression in pancreatic islets,Functional evidence reported,CRISPRi candidate,2,2,0,2,2,0,0,8,Low
+rs7172432,IRS1,Strong replicated GWAS locus,Proximal regulatory locus,Pending,Pending,Low expression in pancreatic islets,Moderate functional evidence,CRISPRi candidate,2,1,0,1,2,0,0,6,Low
+rs972283,KLF14,Strong replicated GWAS locus,Proximal regulatory locus,Pending,Pending,Low expression in pancreatic islets,Moderate functional evidence,CRISPRi candidate,2,1,0,1,2,0,0,6,Low

@@ -1,0 +1,5 @@
+Pathway_Term,P_Value,Overlapping_Genes
+Lipoprotein Metabolism,1.2e-06,"PSRC1, CELSR2, HPR"
+Cholesterol Homeostasis,4.5e-05,"PSRC1, CELSR2, UGT2B17"
+Type 2 Diabetes / Insulin Signaling,0.00031,"TENM2, AOC1, DHRS2"
+Steroid Hormone Biosynthesis,0.00089,"UGT2B17, DHRS2"

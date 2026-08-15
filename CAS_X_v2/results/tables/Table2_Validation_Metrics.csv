@@ -1,0 +1,16 @@
+Target_Gene,Active_Promoter_H3K4me3,Active_Enhancer_H3K27ac,scRNA_seq_Validation,CRISPR_Screen_Hit
+AOC1,1,0,1,0
+PSRC1,1,1,1,1
+TENM2,1,0,0,1
+UGT2B17,0,1,0,0
+PSORS1C3,1,0,0,0
+AMN,0,1,0,0
+DHRS2,0,1,0,0
+AMZ1,0,0,0,0
+MIP,0,0,0,0
+CELSR2,1,1,1,0
+HPR,1,0,1,1
+MLIP,0,0,0,0
+RAB29,0,0,0,0
+TEKT4P2,0,0,0,0
+LINC00910,0,0,0,0

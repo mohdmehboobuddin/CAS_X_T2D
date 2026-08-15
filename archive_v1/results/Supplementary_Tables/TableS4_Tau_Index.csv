@@ -1,0 +1,16 @@
+Gene,Max_Tissue_Effect,Tau_Index,Profile
+JAZF1,Pancreas,0.464,Systemic/Pleiotropic
+VEGFA,Adipose_Subcutaneous,0.504,Systemic/Pleiotropic
+ZBED3,Muscle_Skeletal,0.505,Systemic/Pleiotropic
+NOTCH2,Muscle_Skeletal,0.533,Systemic/Pleiotropic
+FTO,Pancreas,0.633,Systemic/Pleiotropic
+IRS1,Whole_Blood,0.635,Systemic/Pleiotropic
+CDKAL1,Adipose_Subcutaneous,0.674,Systemic/Pleiotropic
+CDKN2B,Muscle_Skeletal,0.687,Systemic/Pleiotropic
+GRB14,Adipose_Subcutaneous,0.71,Systemic/Pleiotropic
+ADCY5,Pancreas,0.763,Systemic/Pleiotropic
+ZFAND6,Pancreas,0.812,Tissue-Specific
+KLF14,Muscle_Skeletal,0.863,Tissue-Specific
+GCK,Adipose_Visceral_Omentum,0.885,Tissue-Specific
+PROX1,Adipose_Visceral_Omentum,0.918,Tissue-Specific
+SUGP1,Muscle_Skeletal,1.0,Tissue-Specific

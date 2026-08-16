@@ -1,4 +1,4 @@
-# CAS-X: A Probabilistic Multi-Tissue Functional Genomics Framework for Prioritizing Type 2 Diabetes Susceptibility Genes
+# CAS-X: A Probabilistic Multi-Tissue eQTL Framework for Prioritizing Candidate Effector Genes at Type 2 Diabetes Risk Loci
 
 ## Overview
 
